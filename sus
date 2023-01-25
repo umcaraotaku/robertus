@@ -1,0 +1,15 @@
+void main (){
+  // espero que isso não de errado de primeira
+  String fernando = "robson e um cão";
+  print("$fernando bem vagabundo");
+  
+  
+  bool roberto = true;
+  print("roberto: $roberto");
+  
+  int gabriel = 33;
+    print("gabriel: $gabriel");
+ 
+  double sergio = 10,25;
+  print("sergio: $sergio");
+}
